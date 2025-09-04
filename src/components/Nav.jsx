@@ -1,7 +1,7 @@
 function Nav() {
   return (
     <div>
-      <h2>ZettaCarros</h2>
+      <h2>CalculadoraZetta</h2>
     </div>
   );
 }
