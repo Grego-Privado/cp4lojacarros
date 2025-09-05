@@ -2,7 +2,7 @@
 
 const Footer = () => {
   return (
-    <div>Todos os Direitos Reservados & 2025</div>
+    <div>2025 & Todos os Direitos Reservados </div>
   )
 }
 
